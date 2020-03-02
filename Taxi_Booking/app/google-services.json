@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923838945462",
+    "firebase_url": "https://taxibooking-7c43d.firebaseio.com",
+    "project_id": "taxibooking-7c43d",
+    "storage_bucket": "taxibooking-7c43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923838945462:android:cb93b46d84e1ffec272e17",
+        "android_client_info": {
+          "package_name": "com.example.taxi_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923838945462-l7oc5nkkeqasf1fjubqn5e6k9gujhq94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxi_booking",
+            "certificate_hash": "930592d03f605cbada62ce93a9293183302cc63c"
+          }
+        },
+        {
+          "client_id": "923838945462-m9giagslrp7i2150peglk7efkrvmjgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6vCNKN97nGmNAJgDT3TPrIpIeBf9gygU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923838945462-m9giagslrp7i2150peglk7efkrvmjgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
